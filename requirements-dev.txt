@@ -22,7 +22,7 @@ pylint==2.5.3
 pyparsing==2.4.7
 pytest==5.4.3
 python-dotenv==0.14.0
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.6.8
 requests==2.24.0
 six==1.15.0
